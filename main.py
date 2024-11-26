@@ -11,7 +11,7 @@ origins = [
 url = 'https://zohoapis.in/backstage/v3/portals/60034569483/events'
 
 headers = {
-    'Authorization': 'Zoho-oauthtoken 1000.303564e11510ada4e4ec00a71a274b0e.af6ce52cc6c176f4b07c9d6b9e7a00e4',  # Replace with your token
+    'Authorization': 'Zoho-oauthtoken 1000.2cc224953e0480a3fd9eff73fdf1cce6.06784a58886fd55f78f2e8ad3e882ab2',  # Replace with your token
 }
 
 # Make the GET request with headers
